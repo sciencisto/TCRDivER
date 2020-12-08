@@ -1,14 +1,14 @@
 #########################################################################
-# ImmuneDivER algorithm
+# TCRDivER algorithm
 #########################################################################
 
-Thank you for the interest and using ImmuneDivER algorithm! 
+Thank you for the interest and using TCRDivER algorithm! 
 
 We are constantly improving the code and if you wish to contribute or
 have any questions feel free to contact. 
 
 Milena Vujovic (milvu@dtu.dk)
-
+Joseph Kaplinsky (joseph.kaplinsky@ludwig.ox.ac.uk)
 
 The software runs in a Python3.6 environment. We have tested in on UNIX 
 based systems. If you have any issues running the software, again, 
