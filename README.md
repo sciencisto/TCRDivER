@@ -1,5 +1,5 @@
 #########################################################################
-#TCRDivER algorithm
+# TCRDivER algorithm
 #########################################################################
 
 Thank you for the interest and using TCRDivER algorithm! 
@@ -56,8 +56,10 @@ Considerations around using input templates:
 
 
 The algorithm consits of several parts: 
+
+
 #########################################################################
-I. Filter sample and make distance matrix chunk jobs: 
+# I. Filter sample and make distance matrix chunk jobs: 
 #########################################################################
 
 	1. A folder containing all sample files is read in. 
@@ -89,12 +91,12 @@ I. Filter sample and make distance matrix chunk jobs:
 
 
 #########################################################################
-II. Run all distance matrix calculations. 
+# II. Run all distance matrix calculations. 
 #########################################################################
 
 
 #########################################################################
-III. Make and run true diversity calculations. 
+# III. Make and run true diversity calculations. 
 #########################################################################
 
 Now that you've calculated the distance matrix, you can proceed with calculating the tru divesity with 
@@ -105,7 +107,7 @@ q and lambda values denoted [sample_name]_ID.tsv and [sample_name]_SIM.tsv, resp
 
 
 #########################################################################
-IV. Assemble complete diversity calculation 
+# IV. Assemble complete diversity calculation 
 #########################################################################
 
 One the naive and similarity scaled diversity calculations are completed each sample folder will contain two files: 
