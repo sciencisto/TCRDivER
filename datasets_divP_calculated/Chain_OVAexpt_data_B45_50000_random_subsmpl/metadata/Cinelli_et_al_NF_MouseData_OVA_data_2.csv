@@ -1,25 +1,3 @@
-﻿OVA data 2,file prefix,library,in-vivo treatment,post-immunisation time,sample type,in vitro stimulation,mouse ID,dcr field separator
-MLR_ACC,MLRlib_ACC_clean_,MLR,OVA,d7,spleen,none,OVAexpt2_1,space
-MLR_GAG,MLRlib_GAG_clean_,MLR,OVA,d7,spleen,none,OVAexpt2_2,space
-MLR_CAC,MLRlib_CAC_clean_,MLR,OVA,d7,spleen,none,OVAexpt2_3,space
-MLR_TCA,MLRlib_TCA_clean_,MLR,CFA,d7,spleen,none,OVAexpt2_7,space
-MLR_AGG,MLRlib_AGG_clean_,MLR,CFA,d7,spleen,none,OVAexpt2_8,space
-MLR_GCT,MLRlib_GCT_clean_,MLR,OVA,d7,in-vitro-stim,OVA,OVAexpt2_1,space
-MLR_CTA,MLRlib_CTA_clean_,MLR,OVA,d7,in-vitro-stim,OVA,OVAexpt2_2,space
-MLR_GGA,MLRlib_GGA_clean_,MLR,OVA,d7,in-vitro-stim,OVA,OVAexpt2_3,space
-OVA_TAT,OVAlib_TAT_clean_,OVA,OVA,m2,spleen,none,OVAexpt2_4,space
-OVA_ATT,OVAlib_ATT_clean_,OVA,OVA,m2,spleen,none,OVAexpt2_5,space
-OVA_CCG,OVAlib_CCG_clean_,OVA,OVA,m2,spleen,none,OVAexpt2_6,space
-OVA_GTC,OVAlib_GTC_clean_,OVA,CFA,m2,spleen,none,OVAexpt2_9,space
-OVA_TTG,OVAlib_TTG_clean_,OVA,CFA,m2,spleen,none,OVAexpt2_10,space
-OVA_CGT,OVAlib_CGT_clean_,OVA,OVA,m2,bonemarrow,none,OVAexpt2_4,space
-OVA_AAA,OVAlib_AAA_clean_,OVA,OVA,m2,bonemarrow,none,OVAexpt2_5,space
-OVA_TGA,OVAlib_TGA_clean_,OVA,OVA,m2,bonemarrow,none,OVAexpt2_6,space
-OVA_TCC,OVAlib_TCC_clean_,OVA,CFA,m2,bonemarrow,none,OVAexpt2_9,space
-OVA_ACC,OVAlib_ACC_clean_,OVA,CFA,m2,bonemarrow,none,OVAexpt2_10,space
-OVA_GAG,OVAlib_GAG_clean_,OVA,CFA,d7,in-vitro-stim,OVA,OVAexpt2_7,space
-OVA_CAC,OVAlib_CAC_clean_,OVA,CFA,d7,in-vitro-stim,OVA,OVAexpt2_8,space
-OVA_TCA,OVAlib_TCA_clean_,OVA,OVA,d7,in-vitro-stim,TB,OVAexpt2_1,space
-OVA_AGG,OVAlib_AGG_clean_,OVA,OVA,d7,in-vitro-stim,TB,OVAexpt2_2,space
-OVA_GCT,OVAlib_GCT_clean_,OVA,CFA,d7,in-vitro-stim,TB,OVAexpt2_7,space
-OVA_CTA,OVAlib_CTA_clean_,OVA,CFA,d7,in-vitro-stim,TB,OVAexpt2_8,space
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c6770d9f7bf32f3eb920e8e674bb28c39606172fb0b110204321d4ed9e65a53
+size 1816

@@ -1,27 +1,3 @@
-﻿OVA data 1,file prefix,library,in-vivo treatment,post-immunisation time,sample type,in vitro stimulation,mouse ID,dcr field separator
-CPX1A_GGA,CPX1A_GGA_clean_,CPX,untreated,d0,spleen,none,none,space
-CPX1A_TTG,CPX1A_TTG_clean_,CPX,untreated,d0,spleen,none,none,space
-CPX1B_CAC,CPX1B_CAC_clean_,CPX,untreated,d0,spleen,none,none,space
-EAE1A_GGA,EAE1A_GGA_clean_,EAE,untreated,d0,spleen,none,none,space
-EAE1A_TTG,EAE1A_TTG_clean_,EAE,untreated,d0,spleen,none,none,space
-EAE1B_CCG,EAE1B_CCG_clean_,EAE,untreated,d0,spleen,none,none,space
-EAE1B_TTG,EAE1B_TTG_clean_,EAE,untreated,d0,spleen,none,none,space
-SB1_AAA,SB1_AAA_clean_,SB1,CFA,d5,spleen,none,none,space
-SB1_ACC,SB1_ACC_clean_,SB1,CFA,d14,spleen,none,none,space
-SB1_AGG,SB1_AGG_clean_,SB1,OVA,d14,spleen,none,none,space
-SB1_ATT,SB1_ATT_clean_,SB1,OVA,d5,spleen,none,none,space
-SB1_CAC,SB1_CAC_clean_,SB1,OVA,d5,spleen,none,none,space
-SB1_CCG,SB1_CCG_clean_,SB1,CFA,d5,spleen,none,none,space
-SB1_CTA,SB1_CTA_clean_,SB1,CFA,d14,spleen,none,none,space
-SB1_GAG,SB1_GAG_clean_,SB1,OVA,d14,spleen,none,none,space
-SB1_GCT,SB1_GCT_clean_,SB1,CFA,d14,spleen,none,none,space
-SB1_GTC,SB1_GTC_clean_,SB1,OVA,d5,spleen,none,none,space
-SB1_TAT,SB1_TAT_clean_,SB1,OVA,d14,spleen,none,none,space
-SB1_TGC,SB1_TGC_clean_,SB1,untreated,d0,spleen,none,none,space
-SB1_TTG,SB1_TTG_clean_,SB1,CFA,d5,spleen,none,none,space
-SB2_ATT,SB2_ATT_clean_,SB2,CFA,m2,spleen,none,none,space
-SB2_CAC,SB2_CAC_clean_,SB2,OVA,m2,spleen,none,none,space
-SB2_CCG,SB2_CCG_clean_,SB2,CFA,m2,spleen,none,none,space
-SB2_CGT,SB2_CGT_clean_,SB2,CFA,m2,spleen,none,none,space
-SB2_GCT,SB2_GCT_clean_,SB2,OVA,m2,spleen,none,none,space
-SB2_GTC,SB2_GTC_clean_,SB2,OVA,m2,spleen,none,none,space
+version https://git-lfs.github.com/spec/v1
+oid sha256:88985b3f7bc0b09d11b14ef14346f7b2e9e24d8f7fa7d7b4667ff9c8ceeef4fa
+size 1728
