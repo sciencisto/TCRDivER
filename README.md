@@ -49,11 +49,11 @@ The frame_type or sequenceStatus columns in input options 2 and 3 are Adaptive B
 
 Considerations around using input templates: 
 	
-	Templates of these inputs are given in the folder Input_templates. If populating the columns manually, please keep in mind that in option 3, the sum of the individual productive_frequencies of the CDR3s should be equal to 1. TCRDivER by default works only with "In" frame sequences. Therefore if you are populating the input template 2 and 3 please remember to populate the column frame_type or sequenceStatus with the string "In". 
+* Templates of these inputs are given in the folder Input_templates. If populating the columns manually, please keep in mind that in option 3, the sum of the individual productive_frequencies of the CDR3s should be equal to 1. TCRDivER by default works only with "In" frame sequences. Therefore if you are populating the input template 2 and 3 please remember to populate the column frame_type or sequenceStatus with the string "In". 
 	
-	If choosing option 1 as input - TCRDivER.config file count variable has to be changed to: count="count"
+* If choosing option 1 as input - TCRDivER.config file count variable has to be changed to: count="count"
 
-	Please note that the input templates contain only columns needed to run TCRDivER. If you obtain the files from the ImmunoSeq Adaptive Biotechnologies platform there will be more columns in the files. 
+* Please note that the input templates contain only columns needed to run TCRDivER. If you obtain the files from the ImmunoSeq Adaptive Biotechnologies platform there will be more columns in the files. 
 
 
 
